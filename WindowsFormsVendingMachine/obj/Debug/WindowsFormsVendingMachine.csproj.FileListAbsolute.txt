@@ -1,0 +1,12 @@
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\bin\Debug\WindowsFormsVendingMachine.exe.config
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\bin\Debug\WindowsFormsVendingMachine.exe
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\bin\Debug\WindowsFormsVendingMachine.pdb
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.csproj.AssemblyReference.cache
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.Form1.resources
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.Properties.Resources.resources
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.csproj.GenerateResource.cache
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.csproj.CoreCompileInputs.cache
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.exe
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.pdb
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsVendingMachine.exe.config
+D:\C#_lyj\workspace\WindowsFormsVendingMachine\obj\Debug\WindowsFormsApp1.Form1.resources

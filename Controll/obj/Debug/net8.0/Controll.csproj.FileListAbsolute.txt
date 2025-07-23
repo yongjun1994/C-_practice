@@ -1,0 +1,14 @@
+D:\C#_lyj\workspace\Controll\bin\Debug\net8.0\Controll.exe
+D:\C#_lyj\workspace\Controll\bin\Debug\net8.0\Controll.deps.json
+D:\C#_lyj\workspace\Controll\bin\Debug\net8.0\Controll.runtimeconfig.json
+D:\C#_lyj\workspace\Controll\bin\Debug\net8.0\Controll.dll
+D:\C#_lyj\workspace\Controll\bin\Debug\net8.0\Controll.pdb
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\Controll.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\Controll.AssemblyInfoInputs.cache
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\Controll.AssemblyInfo.cs
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\Controll.csproj.CoreCompileInputs.cache
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\Controll.dll
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\refint\Controll.dll
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\Controll.pdb
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\Controll.genruntimeconfig.cache
+D:\C#_lyj\workspace\Controll\obj\Debug\net8.0\ref\Controll.dll

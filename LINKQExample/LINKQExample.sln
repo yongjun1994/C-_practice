@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINKQExample", "LINKQExample.csproj", "{72133C0C-BEA0-46CF-9870-031B77385D24}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72133C0C-BEA0-46CF-9870-031B77385D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72133C0C-BEA0-46CF-9870-031B77385D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72133C0C-BEA0-46CF-9870-031B77385D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72133C0C-BEA0-46CF-9870-031B77385D24}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E9483DC-0224-4250-8139-43FEC42A9386}
+	EndGlobalSection
+EndGlobal
